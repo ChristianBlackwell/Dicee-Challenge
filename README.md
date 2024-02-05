@@ -9,4 +9,4 @@ Corresponding dice images are displayed based on the generated numbers.
 The page announces the winner or declares a draw based on the comparison of the two numbers.
 
 ## Usage
-Open the HTML file (index.html) in your web browser.
+You can try out the Dicee Challenge live here.
