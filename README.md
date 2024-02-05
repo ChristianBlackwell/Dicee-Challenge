@@ -9,4 +9,4 @@ Corresponding dice images are displayed based on the generated numbers.
 The page announces the winner or declares a draw based on the comparison of the two numbers.
 
 ## Usage
-You can try out the Dicee Challenge live here.
+You can try out the Dicee Challenge live [here](https://christianblackwell.github.io/Dicee-Challenge/).
