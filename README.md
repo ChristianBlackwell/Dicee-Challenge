@@ -7,6 +7,7 @@ This is a simple web application that simulates a two-player dice game. The page
 Two random numbers between 1 and 6 are generated to simulate the roll of two dice.
 Corresponding dice images are displayed based on the generated numbers.
 The page announces the winner or declares a draw based on the comparison of the two numbers.
+Refresh the page to roll again.
 
 ## Usage
 You can try out the Dicee Challenge live [here](https://christianblackwell.github.io/Dicee-Challenge/).
